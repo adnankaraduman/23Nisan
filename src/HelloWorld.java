@@ -13,6 +13,8 @@ public class HelloWorld {
 
         System.out.println("A new world");
 
+        System.out.println("Peace at home peace at world");
+
 
     }
 
